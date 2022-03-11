@@ -1,6 +1,4 @@
-from operator import contains
 import tkinter as tk
-from matplotlib.pyplot import text
 
 '''
 Jordan Culver
